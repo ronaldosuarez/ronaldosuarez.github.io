@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portfolio",
-    "currentPage": "index.html",
+    "currentPage": "gallery.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -140,7 +140,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp; &nbsp; &nbsp; &nbsp; RONALDO SUAREZ</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"intro.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Introduction</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#msg-box8-1e\">Ronaldo Suarez</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#header3-1c\">Biography</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#header3-14\">Goals/Achievements<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#testimonials1-1a\">Teacher Recommendations<br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"gallery.html\" aria-expanded=\"false\">Gallery</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Credentials</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.behance.net/ronaldosuarez\" target=\"_blank\"><span class=\"socicon socicon-behance mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://www.dropbox.com/s/sm76qoojnbisb96/resumesample.pdf?dl=1\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span>RESUME DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"intro.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Introduction</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#msg-box8-1e\">Ronaldo Suarez</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#header3-1c\">Biography</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#header3-14\">Goals/Achievements<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#testimonials1-1a\">Teacher Recommendations<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"gallery.html\" aria-expanded=\"false\">Gallery</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Credentials</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.behance.net/ronaldosuarez\" target=\"_blank\"><span class=\"socicon socicon-behance mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://www.dropbox.com/s/sm76qoojnbisb96/resumesample.pdf?dl=1\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span>RESUME DOWNLOAD</a></li>"
         },
         {
           "_inherit": "header1",
@@ -287,7 +287,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp; &nbsp; &nbsp; &nbsp; RONALDO SUAREZ</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"intro.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Introduction</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#msg-box8-1e\">Ronaldo Suarez</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#header3-1c\">Biography</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#header3-14\">Goals/Achievements<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#testimonials1-1a\">Teacher Recommendations<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"gallery.html\" aria-expanded=\"false\">Gallery</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Credentials</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.behance.net/ronaldosuarez\" target=\"_blank\"><span class=\"socicon socicon-behance mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://www.dropbox.com/s/sm76qoojnbisb96/resumesample.pdf?dl=1\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span>RESUME DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"intro.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Introduction</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#msg-box8-1e\">Ronaldo Suarez</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#header3-1c\">Biography</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#header3-14\">Goals/Achievements<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#testimonials1-1a\">Teacher Recommendations<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"gallery.html\" aria-expanded=\"false\">Gallery</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Credentials</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.behance.net/ronaldosuarez\" target=\"_blank\"><span class=\"socicon socicon-behance mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://www.dropbox.com/s/sm76qoojnbisb96/resumesample.pdf?dl=1\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span>RESUME DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -473,7 +473,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/rs-logo-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/rs-logo-2000x2000.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Illustrator",
@@ -514,9 +514,49 @@
                 "image": "@PROJECT_PATH@/assets/images/rs-swirl-logo-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Poster",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/poster4-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/poster4-2000x3000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Poster",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/poster1-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/poster1-2000x3000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Poster",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/poster2-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/poster2-2000x3000.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Poster",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/poster5-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/poster5-2000x3000.jpg",
+                "caption": "Type caption here",
+                "active": false
               }
             ],
-            "spacing": "0",
+            "spacing": "1",
             "showText": false,
             "filter": true,
             "bgColor": "fff",
@@ -685,7 +725,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp; &nbsp; &nbsp; &nbsp; RONALDO SUAREZ</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"intro.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Introduction</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#msg-box8-1e\">Ronaldo Suarez</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#header3-1c\">Biography</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#header3-14\">Goals/Achievements<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#testimonials1-1a\">Teacher Recommendations<br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"gallery.html\" aria-expanded=\"false\">Gallery</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Credentials</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.behance.net/ronaldosuarez\" target=\"_blank\"><span class=\"socicon socicon-behance mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://www.dropbox.com/s/sm76qoojnbisb96/resumesample.pdf?dl=1\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span>RESUME DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"intro.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Introduction</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#msg-box8-1e\">Ronaldo Suarez</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#header3-1c\">Biography</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#header3-14\">Goals/Achievements<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#testimonials1-1a\">Teacher Recommendations<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"gallery.html\" aria-expanded=\"false\">Gallery</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Credentials</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.behance.net/ronaldosuarez\" target=\"_blank\"><span class=\"socicon socicon-behance mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://www.dropbox.com/s/sm76qoojnbisb96/resumesample.pdf?dl=1\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span>RESUME DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -1256,7 +1296,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp; &nbsp; &nbsp; &nbsp; RONALDO SUAREZ</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"intro.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Introduction</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#msg-box8-1e\">Ronaldo Suarez</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#header3-1c\">Biography</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#header3-14\">Goals/Achievements<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#testimonials1-1a\">Teacher Recommendations<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"gallery.html\" aria-expanded=\"false\">Gallery</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Credentials</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.behance.net/ronaldosuarez\" target=\"_blank\"><span class=\"socicon socicon-behance mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://www.dropbox.com/s/sm76qoojnbisb96/resumesample.pdf?dl=1\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span>RESUME DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"intro.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Introduction</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#msg-box8-1e\">Ronaldo Suarez</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#header3-1c\">Biography</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#header3-14\">Goals/Achievements<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#testimonials1-1a\">Teacher Recommendations<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"gallery.html\" aria-expanded=\"false\">Gallery</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Credentials</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.behance.net/ronaldosuarez\" target=\"_blank\"><span class=\"socicon socicon-behance mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://www.dropbox.com/s/sm76qoojnbisb96/resumesample.pdf?dl=1\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span>RESUME DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -1414,7 +1454,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp; &nbsp; &nbsp; &nbsp; RONALDO SUAREZ</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"intro.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Introduction</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#msg-box8-1e\">Ronaldo Suarez</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#header3-1c\">Biography</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#header3-14\">Goals/Achievements<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#testimonials1-1a\">Teacher Recommendations<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"gallery.html\" aria-expanded=\"false\">Gallery</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Credentials</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.behance.net/ronaldosuarez\" target=\"_blank\"><span class=\"socicon socicon-behance mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://www.dropbox.com/s/sm76qoojnbisb96/resumesample.pdf?dl=1\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span>RESUME DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"intro.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Introduction</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#msg-box8-1e\">Ronaldo Suarez</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#header3-1c\">Biography</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#header3-14\">Goals/Achievements<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#testimonials1-1a\">Teacher Recommendations<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"gallery.html\" aria-expanded=\"false\">Gallery</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Credentials</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.behance.net/ronaldosuarez\" target=\"_blank\"><span class=\"socicon socicon-behance mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://www.dropbox.com/s/sm76qoojnbisb96/resumesample.pdf?dl=1\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span>RESUME DOWNLOAD</a></li>"
         },
         {
           "_inherit": "features1",
