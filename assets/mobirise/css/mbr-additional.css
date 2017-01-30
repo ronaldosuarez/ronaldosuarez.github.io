@@ -605,6 +605,7 @@ h6,
 
 
 
+
 #ext_menu-o .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -726,6 +727,10 @@ h6,
 #features4-12 .iconbox {
   background-color: #f2f2f2;
   border-color: #f2f2f2;
+}
+#features4-12 P {
+  font-family: 'Slabo 27px', serif;
+  font-size: 15px;
 }
 #testimonials1-1a .mbr-section-title {
   font-family: 'Slabo 27px', serif;
