@@ -746,6 +746,7 @@ h6,
 
 
 
+
 #ext_menu-s .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -816,13 +817,15 @@ h6,
 #ext_menu-s .btn SPAN {
   font-size: 18px;
 }
-#contacts1-t STRONG {
-  color: #000000;
-  font-family: 'Oxygen', sans-serif;
-  text-align: center;
+#form1-1h .form-control-label {
+  color: #232323;
 }
-#contacts1-t P {
-  color: #000000;
+#form1-1h .mbr-section-title {
+  font-family: 'Slabo 27px', serif;
+  font-size: 80px;
+}
+#form1-1h SMALL {
+  font-family: 'Lora', serif;
 }
 
 

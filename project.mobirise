@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 53,
+    "uniqCompNum": 54,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -1302,50 +1302,67 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts1",
-          "_styles": {
-            "STRONG": {
-              "color": "#000000",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "text-align": "center"
-            },
-            "P": {
-              "color": "#000000"
-            }
-          },
-          "_anchor": "contacts1-t",
+          "_name": "form1",
+          "_anchor": "form1-1h",
           "_params": {
-            "paddingTop": 3,
+            "labelsColor": "#232323",
+            "paddingTop": "3",
             "paddingBottom": 3,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/eye-2000x2000.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#ffffff",
-            "bgColorRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.8",
-            "overlayColor": "#ffffff"
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
           },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-01-128x128-1.png",
-              "width": 128,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+          "title": "CONTACT ME",
+          "subtitle": "/ / if you want my great services / /",
+          "form": {
+            "action": "ronaldo3055@gmail.com",
+            "alerts": {
+              "success": "Sent."
             },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
             }
           },
-          "text1": "<br><br><br>",
-          "text2": "<strong>Contacts</strong><br>\nEmail: ronaldo3055@gmail.com<br>\nPhone: +1 (786) 320-0621<br>",
-          "text3": "<strong>Links</strong><br>Behance"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SEND MESSAGE</a>",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "80px"
+            },
+            "SMALL": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          }
         }
       ]
     },
