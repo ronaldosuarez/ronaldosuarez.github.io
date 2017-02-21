@@ -1,17 +1,17 @@
 {
   "settings": {
     "name": "Portfolio",
-    "currentPage": "officesuite.html",
+    "currentPage": "intro.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
         "primaryColor": "#000000",
-        "secondaryColor": "#bfcecb",
-        "successColor": "#008fb9",
+        "secondaryColor": "#000000",
+        "successColor": "#000000",
         "infoColor": "#000000",
-        "warningColor": "#008fb9",
-        "dangerColor": "#008fb9",
+        "warningColor": "#000000",
+        "dangerColor": "#000000",
         "titleFont": "Raleway",
         "subtitleFont": "Lora",
         "textFont": "Raleway",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 63,
+    "uniqCompNum": 64,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -1146,6 +1146,127 @@
             "bgColor": "#efefef"
           },
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"https://www.dropbox.com/s/lsyjvf595kfx87u/Ronaldo%20Suarez%20AI%20Cert.pdf?dl=1\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD RECOMMENDATIONS</a>"
+        },
+        {
+          "_inherit": "contacts3",
+          "_styles": {
+            "p, .list-group-text, .form-control-label": {
+              "color": "#000"
+            },
+            "strong, h4": {
+              "color": "#7e9b9f"
+            },
+            "form .form-control": {
+              "border-color": "rgba(0, 0, 0, 0.2)",
+              "color": "#565656"
+            },
+            ".mbr-footer-content li": {
+              "border-bottom": "1px dotted rgba(0, 0, 0, 0.1)"
+            },
+            ".mbr-company .list-group-text::after": {
+              "border-bottom": "1px dotted rgba(0, 0, 0, 0.2)"
+            },
+            "LI": {
+              "color": "#000000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts5",
+          "_anchor": "contacts5-1r",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/eye-1-2000x2000.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#ffffff"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-265x265.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "Contact me if you would like my services.",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts5",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text2": "+1 (786) 320 0621",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts5",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text3": "(Hidden)",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts5",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "ronaldo3055@gmail.com",
+          "title1": "<br><br><br>Pages",
+          "text5": "<br><li><a href=\"intro.html\">Introduction</a></li><li>Gallery</li>",
+          "text6": "<strong><br></strong><br><strong><br></strong><strong>Contacts</strong><br>Email: ronaldo3055@gmail.com<br>Phone: +1 (786) 320 0000 001<br>Fax: +1 (0) 000 0000 002<br><br><br><br>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "ronaldo3055@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\">Contact us</a>"
         },
         {
           "_tags": [
