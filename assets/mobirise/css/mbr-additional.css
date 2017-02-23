@@ -495,7 +495,6 @@ h6,
 
 
 
-
 #ext_menu-b .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -589,15 +588,28 @@ h6,
 #msg-box8-e .lead H4 {
   color: #cccccc;
 }
-#contacts1-j STRONG {
-  color: #000000;
-  font-family: 'Oxygen', sans-serif;
-  text-align: center;
+#contacts5-1r p,
+#contacts5-1r .list-group-text,
+#contacts5-1r .form-control-label {
+  color: #000;
 }
-#contacts1-j P {
+#contacts5-1r strong,
+#contacts5-1r h4 {
+  color: #7e9b9f;
+}
+#contacts5-1r form .form-control {
+  border-color: rgba(0, 0, 0, 0.2);
+  color: #565656;
+}
+#contacts5-1r .mbr-footer-content li {
+  border-bottom: 1px dotted rgba(0, 0, 0, 0.1);
+}
+#contacts5-1r .mbr-company .list-group-text::after {
+  border-bottom: 1px dotted rgba(0, 0, 0, 0.2);
+}
+#contacts5-1r LI {
   color: #000000;
 }
-
 
 
 
@@ -763,14 +775,6 @@ h6,
 #contacts5-1r LI {
   color: #000000;
 }
-#contacts1-p STRONG {
-  color: #000000;
-  font-family: 'Oxygen', sans-serif;
-  text-align: center;
-}
-#contacts1-p P {
-  color: #000000;
-}
 
 
 
@@ -932,7 +936,6 @@ h6,
 
 
 
-
 #ext_menu-1j .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1033,11 +1036,25 @@ h6,
 #features3-1n P {
   text-align: left;
 }
-#contacts1-1k STRONG {
-  color: #000000;
-  font-family: 'Oxygen', sans-serif;
-  text-align: center;
+#contacts5-1r p,
+#contacts5-1r .list-group-text,
+#contacts5-1r .form-control-label {
+  color: #000;
 }
-#contacts1-1k P {
+#contacts5-1r strong,
+#contacts5-1r h4 {
+  color: #7e9b9f;
+}
+#contacts5-1r form .form-control {
+  border-color: rgba(0, 0, 0, 0.2);
+  color: #565656;
+}
+#contacts5-1r .mbr-footer-content li {
+  border-bottom: 1px dotted rgba(0, 0, 0, 0.1);
+}
+#contacts5-1r .mbr-company .list-group-text::after {
+  border-bottom: 1px dotted rgba(0, 0, 0, 0.2);
+}
+#contacts5-1r LI {
   color: #000000;
 }

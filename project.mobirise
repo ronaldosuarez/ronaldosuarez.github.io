@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portfolio",
-    "currentPage": "intro.html",
+    "currentPage": "contact.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -570,38 +570,50 @@
           "allItem": "All"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
+          "_inherit": "contacts3",
           "_styles": {
-            "STRONG": {
-              "color": "#000000",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "text-align": "center"
+            "p, .list-group-text, .form-control-label": {
+              "color": "#000"
             },
-            "P": {
+            "strong, h4": {
+              "color": "#7e9b9f"
+            },
+            "form .form-control": {
+              "border-color": "rgba(0, 0, 0, 0.2)",
+              "color": "#565656"
+            },
+            ".mbr-footer-content li": {
+              "border-bottom": "1px dotted rgba(0, 0, 0, 0.1)"
+            },
+            ".mbr-company .list-group-text::after": {
+              "border-bottom": "1px dotted rgba(0, 0, 0, 0.2)"
+            },
+            "LI": {
               "color": "#000000"
             }
           },
-          "_anchor": "contacts1-j",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts5",
+          "_anchor": "contacts5-1r",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/eye-2000x2000.jpg",
-            "bgColor": "#ffffff",
+            "bgImage": "@PROJECT_PATH@/assets/images/eye-1-2000x2000.jpg",
+            "bgColor": "#efefef",
             "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.8",
+            "overlayOpacity": 0.8,
             "overlayColor": "#ffffff"
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-01-128x128-1.png",
-              "width": 128,
+              "src": "@PROJECT_PATH@/assets/images/logo-265x265.png",
+              "class": "card-img-top",
+              "width": 265,
               "active": true,
               "link": "",
               "alt": "",
@@ -609,14 +621,74 @@
               "linkInNewWindow": false
             },
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
               "link": "",
               "size": 0
             }
           },
-          "text1": "<br><br><br>",
-          "text2": "<strong>Contacts</strong><br>\nEmail: ronaldo3055@gmail.com<br>\nPhone: +1 (786) 320-0621<br>",
-          "text3": "<strong>Links</strong><br>Behance"
+          "text1": "Contact me if you would like my services.",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts5",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text2": "+1 (786) 320 0621",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts5",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text3": "(Hidden)",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts5",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "ronaldo3055@gmail.com",
+          "title1": "<br><br><br>Pages",
+          "text5": "<br><li><a href=\"intro.html\">Introduction</a></li><li>Gallery</li>",
+          "text6": "<strong><br></strong><br><strong><br></strong><strong>Contacts</strong><br>Email: ronaldo3055@gmail.com<br>Phone: +1 (786) 320 0000 001<br><br><br><br>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "ronaldo3055@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\">Contact us</a>"
         }
       ]
     },
@@ -1237,7 +1309,7 @@
           "text4": "ronaldo3055@gmail.com",
           "title1": "<br><br><br>Pages",
           "text5": "<br><li><a href=\"intro.html\">Introduction</a></li><li>Gallery</li>",
-          "text6": "<strong><br></strong><br><strong><br></strong><strong>Contacts</strong><br>Email: ronaldo3055@gmail.com<br>Phone: +1 (786) 320 0000 001<br>Fax: +1 (0) 000 0000 002<br><br><br><br>",
+          "text6": "<strong><br></strong><br><strong><br></strong><strong>Contacts</strong><br>Email: ronaldo3055@gmail.com<br>Phone: +1 (786) 320 0000 001<br><br><br><br>",
           "form": {
             "title": "MESSAGE",
             "action": "ronaldo3055@gmail.com",
@@ -1267,55 +1339,6 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\">Contact us</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_styles": {
-            "STRONG": {
-              "color": "#000000",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "text-align": "center"
-            },
-            "P": {
-              "color": "#000000"
-            }
-          },
-          "_anchor": "contacts1-p",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/eye-2000x2000.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.8",
-            "overlayColor": "#ffffff"
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-01-128x128-1.png",
-              "width": 128,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "<br><br><br>",
-          "text2": "<strong>Contacts</strong><br>\nEmail: ronaldo3055@gmail.com<br>\nPhone: +1 (786) 320-0621<br>",
-          "text3": "<strong>Links</strong><br>Behance"
         }
       ]
     },
@@ -1881,38 +1904,50 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
+          "_inherit": "contacts3",
           "_styles": {
-            "STRONG": {
-              "color": "#000000",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "text-align": "center"
+            "p, .list-group-text, .form-control-label": {
+              "color": "#000"
             },
-            "P": {
+            "strong, h4": {
+              "color": "#7e9b9f"
+            },
+            "form .form-control": {
+              "border-color": "rgba(0, 0, 0, 0.2)",
+              "color": "#565656"
+            },
+            ".mbr-footer-content li": {
+              "border-bottom": "1px dotted rgba(0, 0, 0, 0.1)"
+            },
+            ".mbr-company .list-group-text::after": {
+              "border-bottom": "1px dotted rgba(0, 0, 0, 0.2)"
+            },
+            "LI": {
               "color": "#000000"
             }
           },
-          "_anchor": "contacts1-1k",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts5",
+          "_anchor": "contacts5-1r",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/eye-2000x2000.jpg",
-            "bgColor": "#ffffff",
+            "bgImage": "@PROJECT_PATH@/assets/images/eye-1-2000x2000.jpg",
+            "bgColor": "#efefef",
             "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.8",
+            "overlayOpacity": 0.8,
             "overlayColor": "#ffffff"
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-01-128x128-1.png",
-              "width": 128,
+              "src": "@PROJECT_PATH@/assets/images/logo-265x265.png",
+              "class": "card-img-top",
+              "width": 265,
               "active": true,
               "link": "",
               "alt": "",
@@ -1920,14 +1955,74 @@
               "linkInNewWindow": false
             },
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
               "link": "",
               "size": 0
             }
           },
-          "text1": "<br><br><br>",
-          "text2": "<strong>Contacts</strong><br>\nEmail: ronaldo3055@gmail.com<br>\nPhone: +1 (786) 320-0621<br>",
-          "text3": "<strong>Links</strong><br>Behance"
+          "text1": "Contact me if you would like my services.",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts5",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text2": "+1 (786) 320 0621",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts5",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text3": "(Hidden)",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts5",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "ronaldo3055@gmail.com",
+          "title1": "<br><br><br>Pages",
+          "text5": "<br><li><a href=\"intro.html\">Introduction</a></li><li>Gallery</li>",
+          "text6": "<strong><br></strong><br><strong><br></strong><strong>Contacts</strong><br>Email: ronaldo3055@gmail.com<br>Phone: +1 (786) 320 0000 001<br><br><br><br>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "ronaldo3055@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\">Contact us</a>"
         }
       ]
     }
