@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portfolio",
-    "currentPage": "index.html",
+    "currentPage": "intro.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 64,
+    "uniqCompNum": 68,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -140,7 +140,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp; &nbsp; &nbsp; &nbsp; RONALDO SUAREZ</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"intro.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Introduction</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#msg-box8-1e\">Ronaldo Suarez</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#header3-1c\">Biography</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#header3-14\">Goals/Achievements<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#testimonials1-1a\">Teacher Recommendations<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"gallery.html\" aria-expanded=\"false\">Gallery</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Credentials</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Industry Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ronaldosuarez.github.io/imagesused/rsaicert.pdf\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Muse</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\">AP Classes</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">10th - AP Human Geo.</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">11th - AP US History</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.dropbox.com/s/sm76qoojnbisb96/resumesample.pdf?dl=1\">Resume Download</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.behance.net/ronaldosuarez\" target=\"_blank\"><span class=\"socicon socicon-behance mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"officesuite.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>HOMEWORK</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"intro.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Introduction</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#msg-box8-1e\">Ronaldo Suarez</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#header3-1c\">Biography</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#header3-14\">Goals/Achievements<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#testimonials1-1a\">Teacher Recommendations<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"gallery.html\" aria-expanded=\"false\">Gallery</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Credentials</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Industry Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ronaldosuarez.github.io/imagesused/rsaicert.pdf\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Muse</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\">AP Classes</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">10th - AP Human Geo.</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">11th - AP US History</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.dropbox.com/s/sm76qoojnbisb96/resumesample.pdf?dl=1\">Resume Download</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Contact</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"contact.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Social Media</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/channel/UC6VlhB7JdLsUoVTnEADHrwA\" target=\"_blank\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span>YouTube</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.behance.net/ronaldosuarez\" target=\"_blank\"><span class=\"socicon socicon-behance mbr-iconfont mbr-iconfont-btn\"></span>Behance</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.instagram.com/bob.jhonsonro\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span>Instagram</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"officesuite.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>HOMEWORK</a></li>"
         },
         {
           "_inherit": "header1",
@@ -159,17 +159,15 @@
           "_anchor": "header4-5",
           "_params": {
             "parallax": true,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "showArrow": false,
             "bgImage": "@PROJECT_PATH@/assets/images/landing-page-collage-2000x1125.jpg",
             "bgColor": "#ffffff",
             "bgColorRadio": false,
             "bgVideo": {
-              "width": 1280,
-              "height": 720,
-              "url": "https://www.youtube.com/embed/Z2jFjbtLZh4?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": true,
+            "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": "0.8",
             "overlayColor": "#ffffff",
@@ -290,7 +288,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp; &nbsp; &nbsp; &nbsp; RONALDO SUAREZ</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"intro.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Introduction</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#msg-box8-1e\">Ronaldo Suarez</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#header3-1c\">Biography</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#header3-14\">Goals/Achievements<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#testimonials1-1a\">Teacher Recommendations<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"gallery.html\" aria-expanded=\"false\">Gallery</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Credentials</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Industry Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ronaldosuarez.github.io/imagesused/rsaicert.pdf\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Muse</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\">AP Classes</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">10th - AP Human Geo.</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">11th - AP US History</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.dropbox.com/s/sm76qoojnbisb96/resumesample.pdf?dl=1\">Resume Download</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.behance.net/ronaldosuarez\" target=\"_blank\"><span class=\"socicon socicon-behance mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"officesuite.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>HOMEWORK</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"intro.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Introduction</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#msg-box8-1e\">Ronaldo Suarez</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#header3-1c\">Biography</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#header3-14\">Goals/Achievements<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#testimonials1-1a\">Teacher Recommendations<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"gallery.html\" aria-expanded=\"false\">Gallery</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Credentials</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Industry Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ronaldosuarez.github.io/imagesused/rsaicert.pdf\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Muse</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\">AP Classes</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">10th - AP Human Geo.</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">11th - AP US History</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.dropbox.com/s/sm76qoojnbisb96/resumesample.pdf?dl=1\">Resume Download</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Contact</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"contact.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Social Media</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/channel/UC6VlhB7JdLsUoVTnEADHrwA\" target=\"_blank\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span>YouTube</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.behance.net/ronaldosuarez\" target=\"_blank\"><span class=\"socicon socicon-behance mbr-iconfont mbr-iconfont-btn\"></span>Behance</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.instagram.com/bob.jhonsonro\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span>Instagram</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"officesuite.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>HOMEWORK</a></li>"
         },
         {
           "_styles": {
@@ -331,7 +329,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/waves-displacement-2000x2000.jpg",
-            "bgColor": "#ffffff",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -572,50 +570,38 @@
           "allItem": "All"
         },
         {
-          "_inherit": "contacts3",
-          "_styles": {
-            "p, .list-group-text, .form-control-label": {
-              "color": "#000"
-            },
-            "strong, h4": {
-              "color": "#7e9b9f"
-            },
-            "form .form-control": {
-              "border-color": "rgba(0, 0, 0, 0.2)",
-              "color": "#565656"
-            },
-            ".mbr-footer-content li": {
-              "border-bottom": "1px dotted rgba(0, 0, 0, 0.1)"
-            },
-            ".mbr-company .list-group-text::after": {
-              "border-bottom": "1px dotted rgba(0, 0, 0, 0.2)"
-            },
-            "LI": {
-              "color": "#000000"
-            }
-          },
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts5",
-          "_anchor": "contacts5-1r",
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#000000",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "text-align": "center"
+            },
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "contacts1-1s",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/eye-1-2000x2000.jpg",
-            "bgColor": "#efefef",
+            "bgImage": "@PROJECT_PATH@/assets/images/eye-2000x2000.jpg",
+            "bgColor": "#ffffff",
             "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.8,
+            "overlayOpacity": "0.8",
             "overlayColor": "#ffffff"
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-265x265.png",
-              "class": "card-img-top",
-              "width": 265,
+              "src": "@PROJECT_PATH@/assets/images/logo-01-128x128-1.png",
+              "width": 128,
               "active": true,
               "link": "",
               "alt": "",
@@ -623,74 +609,14 @@
               "linkInNewWindow": false
             },
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
               "link": "",
               "size": 0
             }
           },
-          "text1": "Contact me if you would like my services.",
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts5",
-              "name": "phone",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text2": "+1 (786) 320 0621",
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts5",
-              "name": "map-pin",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text3": "(Hidden)",
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts5",
-              "name": "envelope",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text4": "ronaldo3055@gmail.com",
-          "title1": "<br><br><br>Pages",
-          "text5": "<br><li><a href=\"intro.html\">Introduction</a></li><li>Gallery</li>",
-          "text6": "<strong><br></strong><br><strong><br></strong><strong>Contacts</strong><br>Email: ronaldo3055@gmail.com<br>Phone: +1 (786) 320 0000 001<br><br><br><br>",
-          "form": {
-            "title": "MESSAGE",
-            "action": "ronaldo3055@gmail.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": true,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": false,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\">Contact us</a>"
+          "text1": "<br><br><br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: ronaldo3055@gmail.com<br>\nPhone: +1 (786) 320-0621<br>",
+          "text3": "<strong>Links</strong><br>Behance"
         }
       ]
     },
@@ -800,7 +726,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp; &nbsp; &nbsp; &nbsp; RONALDO SUAREZ</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"intro.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Introduction</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#msg-box8-1e\">Ronaldo Suarez</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#header3-1c\">Biography</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#header3-14\">Goals/Achievements<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#testimonials1-1a\">Teacher Recommendations<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"gallery.html\" aria-expanded=\"false\">Gallery</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Credentials</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Industry Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ronaldosuarez.github.io/imagesused/rsaicert.pdf\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Muse</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\">AP Classes</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">10th - AP Human Geo.</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">11th - AP US History</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.dropbox.com/s/sm76qoojnbisb96/resumesample.pdf?dl=1\">Resume Download</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.behance.net/ronaldosuarez\" target=\"_blank\"><span class=\"socicon socicon-behance mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"officesuite.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>HOMEWORK</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"intro.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Introduction</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#msg-box8-1e\">Ronaldo Suarez</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#header3-1c\">Biography</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#header3-14\">Goals/Achievements<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#testimonials1-1a\">Teacher Recommendations<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"gallery.html\" aria-expanded=\"false\">Gallery</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Credentials</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Industry Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ronaldosuarez.github.io/imagesused/rsaicert.pdf\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Muse</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\">AP Classes</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">10th - AP Human Geo.</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">11th - AP US History</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.dropbox.com/s/sm76qoojnbisb96/resumesample.pdf?dl=1\">Resume Download</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Contact</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"contact.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Social Media</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/channel/UC6VlhB7JdLsUoVTnEADHrwA\" target=\"_blank\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span>YouTube</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.behance.net/ronaldosuarez\" target=\"_blank\"><span class=\"socicon socicon-behance mbr-iconfont mbr-iconfont-btn\"></span>Behance</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.instagram.com/bob.jhonsonro\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span>Instagram</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"officesuite.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>HOMEWORK</a></li>"
         },
         {
           "_styles": {
@@ -812,6 +738,11 @@
               "font-size": "80px",
               "font-family": "'Slabo 27px', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            },
+            ".lead P": {
+              "color": "#ffffff",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             }
           },
           "_tags": [
@@ -821,27 +752,27 @@
           "_anchor": "msg-box8-1e",
           "_params": {
             "paddingTop": "5",
-            "paddingBottom": 3,
+            "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgColorRadio": false,
             "bgVideo": {
               "width": 1280,
               "height": 720,
               "url": "https://www.youtube.com/embed/Z2jFjbtLZh4?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
-            "bgVideoRadio": false,
+            "bgVideoRadio": true,
             "overlay": true,
-            "overlayOpacity": "0.4",
-            "overlayColor": "#efefef",
+            "overlayOpacity": "0.8",
+            "overlayColor": "#ffffff",
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButton": false
           },
           "title": "INTRODUCTION",
-          "text": "<p>Article header with background image and parallax effect.</p>",
+          "text": "<p>/ / get to know me / /</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -864,21 +795,21 @@
           "_anchor": "msg-box5-1f",
           "_params": {
             "imageSize": 50,
-            "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgColorRadio": false,
             "bgVideo": {
               "width": 1280,
               "height": 720,
-              "url": ""
+              "url": "https://www.youtube.com/embed/Z2jFjbtLZh4?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
-            "bgVideoRadio": false,
+            "bgVideoRadio": true,
             "overlay": true,
-            "overlayOpacity": "0.8",
+            "overlayOpacity": "0.6",
             "overlayColor": "#fff",
             "inverse": false,
             "showTitle": true,
@@ -889,7 +820,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/intropic-1400x1120.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-1400x786.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1226,50 +1157,38 @@
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"https://www.dropbox.com/s/lsyjvf595kfx87u/Ronaldo%20Suarez%20AI%20Cert.pdf?dl=1\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD RECOMMENDATIONS</a>"
         },
         {
-          "_inherit": "contacts3",
-          "_styles": {
-            "p, .list-group-text, .form-control-label": {
-              "color": "#000"
-            },
-            "strong, h4": {
-              "color": "#7e9b9f"
-            },
-            "form .form-control": {
-              "border-color": "rgba(0, 0, 0, 0.2)",
-              "color": "#565656"
-            },
-            ".mbr-footer-content li": {
-              "border-bottom": "1px dotted rgba(0, 0, 0, 0.1)"
-            },
-            ".mbr-company .list-group-text::after": {
-              "border-bottom": "1px dotted rgba(0, 0, 0, 0.2)"
-            },
-            "LI": {
-              "color": "#000000"
-            }
-          },
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts5",
-          "_anchor": "contacts5-1r",
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#000000",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "text-align": "center"
+            },
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "contacts1-1s",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/eye-1-2000x2000.jpg",
-            "bgColor": "#efefef",
+            "bgImage": "@PROJECT_PATH@/assets/images/eye-2000x2000.jpg",
+            "bgColor": "#ffffff",
             "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.8,
+            "overlayOpacity": "0.8",
             "overlayColor": "#ffffff"
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-265x265.png",
-              "class": "card-img-top",
-              "width": 265,
+              "src": "@PROJECT_PATH@/assets/images/logo-01-128x128-1.png",
+              "width": 128,
               "active": true,
               "link": "",
               "alt": "",
@@ -1277,74 +1196,14 @@
               "linkInNewWindow": false
             },
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
               "link": "",
               "size": 0
             }
           },
-          "text1": "Contact me if you would like my services.",
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts5",
-              "name": "phone",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text2": "+1 (786) 320 0621",
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts5",
-              "name": "map-pin",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text3": "(Hidden)",
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts5",
-              "name": "envelope",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text4": "ronaldo3055@gmail.com",
-          "title1": "<br><br><br>Pages",
-          "text5": "<br><li><a href=\"intro.html\">Introduction</a></li><li>Gallery</li>",
-          "text6": "<strong><br></strong><br><strong><br></strong><strong>Contacts</strong><br>Email: ronaldo3055@gmail.com<br>Phone: +1 (786) 320 0000 001<br><br><br><br>",
-          "form": {
-            "title": "MESSAGE",
-            "action": "ronaldo3055@gmail.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": true,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": false,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\">Contact us</a>"
+          "text1": "<br><br><br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: ronaldo3055@gmail.com<br>\nPhone: +1 (786) 320-0621<br>",
+          "text3": "<strong>Links</strong><br>Behance"
         }
       ]
     },
@@ -1454,7 +1313,45 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp; &nbsp; &nbsp; &nbsp; RONALDO SUAREZ</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"intro.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Introduction</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#msg-box8-1e\">Ronaldo Suarez</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#header3-1c\">Biography</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#header3-14\">Goals/Achievements<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#testimonials1-1a\">Teacher Recommendations<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"gallery.html\" aria-expanded=\"false\">Gallery</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Credentials</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Industry Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ronaldosuarez.github.io/imagesused/rsaicert.pdf\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Muse</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\">AP Classes</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">10th - AP Human Geo.</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">11th - AP US History</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.dropbox.com/s/sm76qoojnbisb96/resumesample.pdf?dl=1\">Resume Download</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.behance.net/ronaldosuarez\" target=\"_blank\"><span class=\"socicon socicon-behance mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"officesuite.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>HOMEWORK</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"intro.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Introduction</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#msg-box8-1e\">Ronaldo Suarez</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#header3-1c\">Biography</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#header3-14\">Goals/Achievements<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#testimonials1-1a\">Teacher Recommendations<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"gallery.html\" aria-expanded=\"false\">Gallery</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Credentials</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Industry Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ronaldosuarez.github.io/imagesused/rsaicert.pdf\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Muse</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\">AP Classes</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">10th - AP Human Geo.</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">11th - AP US History</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.dropbox.com/s/sm76qoojnbisb96/resumesample.pdf?dl=1\">Resume Download</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Contact</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"contact.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Social Media</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/channel/UC6VlhB7JdLsUoVTnEADHrwA\" target=\"_blank\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span>YouTube</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.behance.net/ronaldosuarez\" target=\"_blank\"><span class=\"socicon socicon-behance mbr-iconfont mbr-iconfont-btn\"></span>Behance</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.instagram.com/bob.jhonsonro\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span>Instagram</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"officesuite.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>HOMEWORK</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1u",
+          "_params": {
+            "paddingTop": "7",
+            "paddingBottom": "3",
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "CONTACT ME",
+          "meta": "/ / if you want my great services / /"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1v",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Email: ronaldo3055@gmail.com&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; Phone: (786)-320-0621&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></p>",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
         },
         {
           "_tags": [
@@ -1488,8 +1385,8 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
-            "showSubTitle": true
+            "showTitle": false,
+            "showSubTitle": false
           },
           "title": "CONTACT ME",
           "subtitle": "/ / if you want my great services / /",
@@ -1630,7 +1527,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp; &nbsp; &nbsp; &nbsp; RONALDO SUAREZ</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"intro.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Introduction</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#msg-box8-1e\">Ronaldo Suarez</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#header3-1c\">Biography</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#header3-14\">Goals/Achievements<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#testimonials1-1a\">Teacher Recommendations<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"gallery.html\" aria-expanded=\"false\">Gallery</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Credentials</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Industry Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ronaldosuarez.github.io/imagesused/rsaicert.pdf\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Muse</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\">AP Classes</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">10th - AP Human Geo.</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">11th - AP US History</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.behance.net/ronaldosuarez\" target=\"_blank\"><span class=\"socicon socicon-behance mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://www.dropbox.com/s/sm76qoojnbisb96/resumesample.pdf?dl=1\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>RESUME DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"intro.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Introduction</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#msg-box8-1e\">Ronaldo Suarez</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#header3-1c\">Biography</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#header3-14\">Goals/Achievements<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#testimonials1-1a\">Teacher Recommendations<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"gallery.html\" aria-expanded=\"false\">Gallery</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Credentials</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Industry Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ronaldosuarez.github.io/imagesused/rsaicert.pdf\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Muse</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\">AP Classes</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">10th - AP Human Geo.</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">11th - AP US History</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.dropbox.com/s/sm76qoojnbisb96/resumesample.pdf?dl=1\">Resume Download</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Contact</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"contact.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Social Media</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/channel/UC6VlhB7JdLsUoVTnEADHrwA\" target=\"_blank\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span>YouTube</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.behance.net/ronaldosuarez\" target=\"_blank\"><span class=\"socicon socicon-behance mbr-iconfont mbr-iconfont-btn\"></span>Behance</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.instagram.com/bob.jhonsonro\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span>Instagram</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"officesuite.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>HOMEWORK</a></li>"
         }
       ]
     },
@@ -1741,7 +1638,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp; &nbsp; &nbsp; &nbsp; RONALDO SUAREZ</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"intro.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Introduction</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#msg-box8-1e\">Ronaldo Suarez</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#header3-1c\">Biography</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#header3-14\">Goals/Achievements<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#testimonials1-1a\">Teacher Recommendations<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"gallery.html\" aria-expanded=\"false\">Gallery</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Credentials</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Industry Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ronaldosuarez.github.io/imagesused/rsaicert.pdf\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Muse</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\">AP Classes</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">10th - AP Human Geo.</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">11th - AP US History</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.dropbox.com/s/sm76qoojnbisb96/resumesample.pdf?dl=1\">Resume Download</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.behance.net/ronaldosuarez\" target=\"_blank\"><span class=\"socicon socicon-behance mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"officesuite.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>HOMEWORK</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"intro.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Introduction</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#msg-box8-1e\">Ronaldo Suarez</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#header3-1c\">Biography</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#header3-14\">Goals/Achievements<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro.html#testimonials1-1a\">Teacher Recommendations<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"gallery.html\" aria-expanded=\"false\">Gallery</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Credentials</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Industry Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ronaldosuarez.github.io/imagesused/rsaicert.pdf\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Muse</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\">AP Classes</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">10th - AP Human Geo.</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">11th - AP US History</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.dropbox.com/s/sm76qoojnbisb96/resumesample.pdf?dl=1\">Resume Download</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Contact</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"contact.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Social Media</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/channel/UC6VlhB7JdLsUoVTnEADHrwA\" target=\"_blank\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span>YouTube</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.behance.net/ronaldosuarez\" target=\"_blank\"><span class=\"socicon socicon-behance mbr-iconfont mbr-iconfont-btn\"></span>Behance</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.instagram.com/bob.jhonsonro\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span>Instagram</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"officesuite.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>HOMEWORK</a></li>"
         },
         {
           "_styles": {
@@ -1774,7 +1671,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#ffffff",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
