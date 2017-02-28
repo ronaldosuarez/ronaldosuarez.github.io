@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portfolio",
-    "currentPage": "intro.html",
+    "currentPage": "gallery.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -306,7 +306,7 @@
               "font-family": "'Slabo 27px', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
               "font-size": "80px",
-              "color": "#232323"
+              "color": "#efefef"
             },
             ".lead H3": {
               "color": "#000000",
@@ -330,13 +330,15 @@
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/waves-displacement-2000x2000.jpg",
             "bgColor": "#efefef",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/Z2jFjbtLZh4?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
-            "bgVideoRadio": false,
+            "bgVideoRadio": true,
             "overlay": true,
-            "overlayOpacity": "1",
+            "overlayOpacity": "0.2",
             "overlayColor": "#ffffff",
             "showTitle": true,
             "showText": true,
@@ -616,7 +618,7 @@
           },
           "text1": "<br><br><br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: ronaldo3055@gmail.com<br>\nPhone: +1 (786) 320-0621<br>",
-          "text3": "<strong>Links</strong><br>Behance"
+          "text3": "<strong>Links</strong><br><a href=\"https://www.behance.net/ronaldosuarez\" target=\"_blank\">Behance</a><br>YouTube"
         }
       ]
     },
@@ -740,7 +742,7 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             },
             ".lead P": {
-              "color": "#ffffff",
+              "color": "#c1c1c1",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             }
@@ -757,13 +759,13 @@
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
             "bgColor": "#efefef",
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "width": 1280,
               "height": 720,
               "url": "https://www.youtube.com/embed/Z2jFjbtLZh4?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
-            "bgVideoRadio": true,
+            "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": "0.8",
             "overlayColor": "#ffffff",
@@ -801,13 +803,13 @@
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#fff",
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "width": 1280,
               "height": 720,
               "url": "https://www.youtube.com/embed/Z2jFjbtLZh4?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
-            "bgVideoRadio": true,
+            "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": "0.6",
             "overlayColor": "#fff",
@@ -1203,7 +1205,7 @@
           },
           "text1": "<br><br><br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: ronaldo3055@gmail.com<br>\nPhone: +1 (786) 320-0621<br>",
-          "text3": "<strong>Links</strong><br>Behance"
+          "text3": "<strong>Links</strong><br><a href=\"https://www.behance.net/ronaldosuarez\" target=\"_blank\">Behance</a><br>YouTube"
         }
       ]
     },
@@ -1319,6 +1321,12 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            "H3": {
+              "font-size": "80px",
+              "color": "#232323",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             }
           },
           "_tags": [
@@ -1346,10 +1354,12 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Email: ronaldo3055@gmail.com&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; Phone: (786)-320-0621&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></p>",
+          "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>My Info:</b></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Email: ronaldo3055@gmail.com &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span></p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Phone: (786)-320-0621&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></p>",
           "_styles": {
             "P": {
-              "text-align": "center"
+              "text-align": "left",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
             }
           }
         },
@@ -1375,7 +1385,7 @@
           "_anchor": "form1-1h",
           "_params": {
             "labelsColor": "#232323",
-            "paddingTop": "3",
+            "paddingTop": "0",
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
@@ -1417,7 +1427,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SEND MESSAGE</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SEND MESSAGE</a>"
         }
       ]
     },
