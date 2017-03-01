@@ -491,6 +491,9 @@ h6,
 #header4-5 .mbr-section-lead {
   color: #000000;
 }
+#footer1-1w P {
+  color: #000000;
+}
 
 
 
@@ -596,6 +599,9 @@ h6,
   text-align: center;
 }
 #contacts1-1s P {
+  color: #000000;
+}
+#footer1-1w P {
   color: #000000;
 }
 
@@ -747,6 +753,9 @@ h6,
 #testimonials1-1a .mbr-section-subtitle {
   font-size: 16px;
 }
+#footer1-1w P {
+  color: #000000;
+}
 #contacts1-1s STRONG {
   color: #000000;
   font-family: 'Oxygen', sans-serif;
@@ -854,6 +863,9 @@ h6,
 #form1-1h SMALL {
   font-family: 'Lora', serif;
 }
+#footer1-1w P {
+  color: #000000;
+}
 
 
 #ext_menu-u .hide-buttons .nav-btn {
@@ -926,6 +938,7 @@ h6,
 #ext_menu-u .btn SPAN {
   font-size: 18px;
 }
+
 
 
 
@@ -1031,25 +1044,14 @@ h6,
 #features3-1n P {
   text-align: left;
 }
-#contacts5-1r p,
-#contacts5-1r .list-group-text,
-#contacts5-1r .form-control-label {
-  color: #000;
+#contacts1-1s STRONG {
+  color: #000000;
+  font-family: 'Oxygen', sans-serif;
+  text-align: center;
 }
-#contacts5-1r strong,
-#contacts5-1r h4 {
-  color: #7e9b9f;
+#contacts1-1s P {
+  color: #000000;
 }
-#contacts5-1r form .form-control {
-  border-color: rgba(0, 0, 0, 0.2);
-  color: #565656;
-}
-#contacts5-1r .mbr-footer-content li {
-  border-bottom: 1px dotted rgba(0, 0, 0, 0.1);
-}
-#contacts5-1r .mbr-company .list-group-text::after {
-  border-bottom: 1px dotted rgba(0, 0, 0, 0.2);
-}
-#contacts5-1r LI {
+#footer1-1w P {
   color: #000000;
 }

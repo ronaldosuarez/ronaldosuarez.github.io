@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portfolio",
-    "currentPage": "gallery.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 68,
+    "uniqCompNum": 69,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -179,6 +179,31 @@
           "title": "WELCOME",
           "text": "// I make stuff //",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR WINDOWS</a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1w",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Ronaldo Suarez",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          }
         }
       ]
     },
@@ -589,13 +614,13 @@
           },
           "_anchor": "contacts1-1s",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/eye-2000x2000.jpg",
             "bgColor": "#ffffff",
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": "0.8",
             "overlayColor": "#ffffff"
@@ -619,6 +644,31 @@
           "text1": "<br><br><br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: ronaldo3055@gmail.com<br>\nPhone: +1 (786) 320-0621<br>",
           "text3": "<strong>Links</strong><br><a href=\"https://www.behance.net/ronaldosuarez\" target=\"_blank\">Behance</a><br>YouTube"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "footer1-1w",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Ronaldo Suarez"
         }
       ]
     },
@@ -1162,6 +1212,31 @@
           "_tags": [
             "Theme"
           ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "footer1-1w",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Ronaldo Suarez"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
           "_name": "contacts1",
           "_styles": {
             "STRONG": {
@@ -1176,13 +1251,13 @@
           },
           "_anchor": "contacts1-1s",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/eye-2000x2000.jpg",
             "bgColor": "#ffffff",
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": "0.8",
             "overlayColor": "#ffffff"
@@ -1348,20 +1423,20 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-1v",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>My Info:</b></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Email: ronaldo3055@gmail.com &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span></p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Phone: (786)-320-0621&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></p>",
           "_styles": {
             "P": {
               "text-align": "left",
               "font-family": "'Roboto Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
             }
-          }
+          },
+          "_anchor": "content1-1v",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>My Info:</b></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Email: ronaldo3055@gmail.com &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span></p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Phone: (786)-320-0621&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></p>"
         },
         {
           "_tags": [
@@ -1428,6 +1503,31 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SEND MESSAGE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "footer1-1w",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Ronaldo Suarez"
         }
       ]
     },
@@ -1722,8 +1822,8 @@
           },
           "_anchor": "features3-1n",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "3",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1817,50 +1917,38 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
-          "_inherit": "contacts3",
-          "_styles": {
-            "p, .list-group-text, .form-control-label": {
-              "color": "#000"
-            },
-            "strong, h4": {
-              "color": "#7e9b9f"
-            },
-            "form .form-control": {
-              "border-color": "rgba(0, 0, 0, 0.2)",
-              "color": "#565656"
-            },
-            ".mbr-footer-content li": {
-              "border-bottom": "1px dotted rgba(0, 0, 0, 0.1)"
-            },
-            ".mbr-company .list-group-text::after": {
-              "border-bottom": "1px dotted rgba(0, 0, 0, 0.2)"
-            },
-            "LI": {
-              "color": "#000000"
-            }
-          },
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts5",
-          "_anchor": "contacts5-1r",
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#000000",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "text-align": "center"
+            },
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "contacts1-1s",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/eye-1-2000x2000.jpg",
-            "bgColor": "#efefef",
-            "bgColorRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/eye-2000x2000.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayOpacity": 0.8,
+            "overlayOpacity": "0.8",
             "overlayColor": "#ffffff"
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-265x265.png",
-              "class": "card-img-top",
-              "width": 265,
+              "src": "@PROJECT_PATH@/assets/images/logo-01-128x128-1.png",
+              "width": 128,
               "active": true,
               "link": "",
               "alt": "",
@@ -1868,74 +1956,39 @@
               "linkInNewWindow": false
             },
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
               "link": "",
               "size": 0
             }
           },
-          "text1": "Contact me if you would like my services.",
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts5",
-              "name": "phone",
-              "size": 0,
-              "family": "et-line"
+          "text1": "<br><br><br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: ronaldo3055@gmail.com<br>\nPhone: +1 (786) 320-0621<br>",
+          "text3": "<strong>Links</strong><br><a href=\"https://www.behance.net/ronaldosuarez\" target=\"_blank\">Behance</a><br>YouTube"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
             }
           },
-          "text2": "+1 (786) 320 0621",
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts5",
-              "name": "map-pin",
-              "size": 0,
-              "family": "et-line"
-            }
+          "_anchor": "footer1-1w",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
           },
-          "text3": "(Hidden)",
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts5",
-              "name": "envelope",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text4": "ronaldo3055@gmail.com",
-          "title1": "<br><br><br>Pages",
-          "text5": "<br><li><a href=\"intro.html\">Introduction</a></li><li>Gallery</li>",
-          "text6": "<strong><br></strong><br><strong><br></strong><strong>Contacts</strong><br>Email: ronaldo3055@gmail.com<br>Phone: +1 (786) 320 0000 001<br><br><br><br>",
-          "form": {
-            "title": "MESSAGE",
-            "action": "ronaldo3055@gmail.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": true,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": false,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\">Contact us</a>"
+          "text": "Copyright (c) 2017 Ronaldo Suarez"
         }
       ]
     }
