@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portfolio",
-    "currentPage": "photoshop.html",
+    "currentPage": "gallery.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -410,7 +410,7 @@
           },
           "title": "PHOTOSHOP",
           "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">VIEW GALLERY</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"photoshop.html\" data-toolbar=\"-mbrBtnMove\">VIEW GALLERY</a>"
         },
         {
           "_tags": [
@@ -479,7 +479,7 @@
           },
           "title": "ILLUSTRATOR",
           "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">VIEW GALLERY</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"illustrator.html\" data-toolbar=\"-mbrBtnMove\">VIEW GALLERY</a>"
         },
         {
           "_inherit": "msg-box8",
