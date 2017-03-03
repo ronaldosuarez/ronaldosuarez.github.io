@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portfolio",
-    "currentPage": "gallery.html",
+    "currentPage": "photoshop.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2029,6 +2029,21 @@
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "right",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "80px",
+              "color": "#232323"
+            },
+            ".mbr-section-text": {
+              "color": "#c1c1c1",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "text-align": "right"
+            }
+          },
           "_anchor": "header2-26",
           "_params": {
             "imageSize": "30",
@@ -2074,22 +2089,7 @@
           },
           "title": "PHOTOSHOP",
           "text": "/ / some of my photoshop work/ / &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "text-align": "right",
-              "font-family": "'Slabo 27px', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
-              "font-size": "80px",
-              "color": "#232323"
-            },
-            ".mbr-section-text": {
-              "color": "#c1c1c1",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "text-align": "right"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_inherit": "gallery1",
@@ -2159,7 +2159,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/coral-1-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/coral-1-2000x2000.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Abstract Art",
@@ -2220,6 +2220,46 @@
                 "image": "@PROJECT_PATH@/assets/images/poster4-2000x3000.jpg",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Artist Recreation Prograss",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ronaldo-suarez-pearl-1-2000x2588-800x1035.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ronaldo-suarez-pearl-1-2000x2588.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Artist Recreation Prograss",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ronaldo-suarez-pearl-2-2000x2588-800x1035.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ronaldo-suarez-pearl-2-2000x2588.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Artist Recreation Prograss",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ronaldo-suarez-pearl-3-2000x2588-800x1035.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ronaldo-suarez-pearl-3-2000x2588.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Artist Recreation Prograss",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ronaldo-suarez-pearl-4-2000x2588-800x1035.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ronaldo-suarez-pearl-4-2000x2588.jpg",
+                "caption": "Type caption here",
+                "active": true
               }
             ],
             "spacing": 1,
