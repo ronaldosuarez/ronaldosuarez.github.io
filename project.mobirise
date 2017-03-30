@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portfolio",
-    "currentPage": "index.html",
+    "currentPage": "photoshop.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2328,6 +2328,16 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/ronaldo-suarez-pearl-7-2000x2588-800x1035.jpg",
                 "image": "@PROJECT_PATH@/assets/images/ronaldo-suarez-pearl-7-2000x2588.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Artist Recreation Prograss",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/poster-final-ig-2000x2963-800x1185.jpg",
+                "image": "@PROJECT_PATH@/assets/images/poster-final-ig-2000x2963.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
