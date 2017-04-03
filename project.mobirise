@@ -2336,8 +2336,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/poster-final-ig-2000x2963-800x1185.jpg",
-                "image": "@PROJECT_PATH@/assets/images/poster-final-ig-2000x2963.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/poster-final-2000x2962-800x1184.jpg",
+                "image": "@PROJECT_PATH@/assets/images/poster-final-2000x2962.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
