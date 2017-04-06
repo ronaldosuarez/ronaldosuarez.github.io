@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portfolio",
-    "currentPage": "index.html",
+    "currentPage": "illustrator.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -17,12 +17,13 @@
         "textFont": "Raleway",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false
+        "isScrollToTopButton": false,
+        "isRtl": false
       }
     },
     "versionFirst": "3.10.4",
     "uniqCompNum": 95,
-    "versionPublish": "3.10.5",
+    "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -178,7 +179,7 @@
           },
           "title": "WELCOME",
           "text": "// I make stuff //",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://youtu.be/oRzwgY3yImg\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-play mbr-iconfont mbr-iconfont-btn\"></span>Video Intro</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://www.youtube.com/watch?v=oRzwgY3yImg\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-play mbr-iconfont mbr-iconfont-btn\"></span>Video Intro</a> "
         },
         {
           "_tags": [
@@ -2261,7 +2262,7 @@
                 "active": false
               },
               {
-                "tags": "Artist Recreation Prograss",
+                "tags": "Artist Recreation Progress",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -2271,7 +2272,7 @@
                 "active": false
               },
               {
-                "tags": "Artist Recreation Prograss",
+                "tags": "Artist Recreation Progress",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -2281,7 +2282,7 @@
                 "active": false
               },
               {
-                "tags": "Artist Recreation Prograss",
+                "tags": "Artist Recreation Progress",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -2291,7 +2292,7 @@
                 "active": false
               },
               {
-                "tags": "Artist Recreation Prograss",
+                "tags": "Artist Recreation Progress",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -2301,7 +2302,7 @@
                 "active": false
               },
               {
-                "tags": "Artist Recreation Prograss",
+                "tags": "Artist Recreation Progress",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -2311,7 +2312,7 @@
                 "active": false
               },
               {
-                "tags": "Artist Recreation Prograss",
+                "tags": "Artist Recreation Progress",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -2321,12 +2322,32 @@
                 "active": false
               },
               {
-                "tags": "Artist Recreation Prograss",
+                "tags": "Artist Recreation Progress",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/ronaldo-suarez-pearl-7-2000x2588-800x1035.jpg",
                 "image": "@PROJECT_PATH@/assets/images/ronaldo-suarez-pearl-7-2000x2588.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Poster",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ronaldo-suarez-mobirise-2000x2588-800x1035.png",
+                "image": "@PROJECT_PATH@/assets/images/ronaldo-suarez-mobirise-2000x2588.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Poster",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/juniper-leaves-venue-mobirise-2000x2588-800x1035.png",
+                "image": "@PROJECT_PATH@/assets/images/juniper-leaves-venue-mobirise-2000x2588.png",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -2659,6 +2680,16 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/healthier-vending-mobirise-2000x2000-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/healthier-vending-mobirise-2000x2000.png",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Logos",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mav-logo-01-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mav-logo-01-2000x2000.jpg",
                 "caption": "Type caption here",
@@ -2671,6 +2702,16 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/untitled-3-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/untitled-3-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Logos",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/baby-mavericks-mobirise-2000x2000-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/baby-mavericks-mobirise-2000x2000.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2702,7 +2743,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/llama-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/llama-2000x2000.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Other Vector Work",
