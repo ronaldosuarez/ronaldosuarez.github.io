@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portfolio",
-    "currentPage": "index.html",
+    "currentPage": "illustrator.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2683,7 +2683,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/healthier-vending-mobirise-2000x2000-800x800.png",
                 "image": "@PROJECT_PATH@/assets/images/healthier-vending-mobirise-2000x2000.png",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Logos",
@@ -2762,6 +2762,26 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/can-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/can-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Other Vector Work",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gun-violence-2000x2000-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/gun-violence-2000x2000.png",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Other Vector Work",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/car-2000x2000-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/car-2000x2000.png",
                 "caption": "Type caption here",
                 "active": false
               }
